@@ -13,7 +13,9 @@ http://vincentgarreau.com/particles.js/
 CodePen demo: <br />
 http://codepen.io/VincentGarreau/pen/pnlso
 
+实例
 http://www.tutorialsgo.com/particles-js-control-particle-count-and-shape/
+https://changkun.us/archives/2017/03/105/
 -------------------------------
 ### `Usage`
 
